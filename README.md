@@ -105,10 +105,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Set up the **Google Maps API** and render the map.  
      - **Reading:** [Google Maps API Documentation](https://developers.google.com/maps/documentation)  
-     - **Video:** [Google Maps API Tutorial](https://www.youtube.com/watch?v=zDR8_65A9jU)  
+     - **Video:** [Google Maps API Tutorial](https://www.youtube.com/watch?v=2LvwNMgW4vw)  
   2. Add markers for predefined locations.  
      - **Reading:** [Google Maps Markers](https://developers.google.com/maps/documentation/javascript/markers)  
-     - **Video:** [Adding Markers to Google Maps](https://www.youtube.com/watch?v=s_3Sw5I4tbE)  
+     - **Video:** [Adding Markers to Google Maps](https://www.youtube.com/watch?v=WZcxJGmLbSo)  
 
 - **Deliverables:**  
   - A functional map with markers for key locations.
@@ -121,10 +121,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Integrate APIs via **RapidAPI** to fetch travel data.  
      - **Reading:** [RapidAPI Guide](https://rapidapi.com/learn)  
-     - **Video:** [API Integration with RapidAPI](https://www.youtube.com/watch?v=pb3z4LskDAU)  
+     - **Video:** [API Integration with RapidAPI](https://www.youtube.com/watch?v=Gt8PKvZy1K0&list=PLh0D7DkM5FfB5ItIZoZSp_ep3hyQAbdqj)  
   2. Display fetched data in custom cards.  
      - **Reading:** [React Components Basics](https://react.dev/learn/your-first-component)  
-     - **Video:** [Building Custom Components](https://www.youtube.com/watch?v=ibIlq4JodXI)  
+     - **Video:** [Building Custom Components](https://www.youtube.com/watch?v=S4VH8hddg8c&t=431s)  
 
 - **Deliverables:**  
   - Functional data fetching and display using custom components.
@@ -137,10 +137,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Add a search bar with auto-complete using **Google Places API**.  
      - **Reading:** [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview)  
-     - **Video:** [Auto-complete with Google Places API](https://www.youtube.com/watch?v=RPk1z_fEMNw)  
+     - **Video:** [Auto-complete with Google Places API](https://www.youtube.com/watch?v=ETKY7-kQW38)  
   2. Implement filtering options for places.  
      - **Reading:** [React State Management](https://react.dev/learn/managing-state)  
-     - **Video:** [Filtering Data in React](https://www.youtube.com/watch?v=kN1Czs0m1SU)  
+     - **Video:** [Filtering Data in React](https://www.youtube.com/watch?v=xAqCEBFGdYk)  
 
 - **Deliverables:**  
   - Search and filtering functionalities with auto-complete.
@@ -153,10 +153,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Test all features for bugs and optimize performance.  
      - **Reading:** [React Testing Basics](https://react.dev/learn/testing)  
-     - **Video:** [Testing React Apps](https://www.youtube.com/watch?v=08q1rkQQcww)  
+     - **Video:** [Testing React Apps](https://www.youtube.com/watch?v=8Xwq35cPwYg&t=2s)  
   2. Deploy the application to **Vercel**.  
      - **Reading:** [Vercel Deployment Guide](https://vercel.com/docs)  
-     - **Video:** [Deploying Next.js Apps](https://www.youtube.com/watch?v=22Rywce_kcg&t=130s)  
+     - **Video:** [Deploying Next.js Apps](https://www.youtube.com/watch?v=YyeyXhKvgPY)  
 
 - **Deliverables:**  
   - Fully deployed Google Maps Clone accessible via a public URL.
